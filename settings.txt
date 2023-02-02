@@ -1,0 +1,18 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Шаталов Никита: Python разработчик и автор контента",
+"description": "Никита Шаталов - портфолио, резюме и блог Python разработчика",
+"keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
+"name": "Шаталов Никита",
+"tag1":"Python Разработчик",
+"tag2":"& Junior frontend developer",
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect3":"Портфолио",
+"sect4":"Блог",
+"sect5":"Контакты",
+"telegram":"https://t.me/NikShat09",
+"github":"https://github.com/Nikitimba09",
+"vk":"https://vk.com/shat_nik",
+"email":"mailto:nickit.schatalow@yandex.com",
+"city":"Самара"
+}
