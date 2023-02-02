@@ -1,4 +1,4 @@
-{"site_url":"http://nikitimba09.github.io/flask_resume/",
+{"site_url":" https://nikitimba09.github.io/flask_resume",
 "site_title": "Шаталов Никита: Python разработчик и автор контента",
 "description": "Никита Шаталов - портфолио, резюме и блог Python разработчика",
 "keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
