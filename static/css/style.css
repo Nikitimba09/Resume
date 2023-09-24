@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
 }
 #header .social-links a {
-  font-size: 16px;
+  font-size: 26px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -147,6 +147,11 @@ h1, h2, h3, h4, h5, h6 {
   #header.header-top h1 {
     font-size: 26px;
   }
+}
+
+.telegram {
+  height: 20px;
+  width: 20px
 }
 
 /*--------------------------------------------------------------
@@ -861,7 +866,7 @@ section .container {
   display: flex;
 }
 .contact .info-box .social-links a {
-  font-size: 18px;
+  font-size: 28px;
   display: inline-block;
   color: #fff;
   line-height: 1;

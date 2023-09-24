@@ -1,5 +1,5 @@
-{"site_url":"http://localhost:8000",
-"site_title": "Шаталов Никита: Python разработчик и автор контента",
+{"site_url":"https://shatalovnik.netlify.app",
+"site_title": "Шаталов Никита: Python разработчик",
 "description": "Никита Шаталов - портфолио, резюме и блог Python разработчика",
 "keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
 "name": "Шаталов Никита",
